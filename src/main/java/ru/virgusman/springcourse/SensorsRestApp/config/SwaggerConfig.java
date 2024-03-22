@@ -13,7 +13,7 @@ public class SwaggerConfig {
         return new OpenAPI()
                 .info(
                         new Info()
-                                .title("Контроль замеров с сенсоров")
+                                .title("Контроль замеров с метеорологических сенсоров")
                                 .version("1.0.0")
                                 .contact(
                                         new Contact()
